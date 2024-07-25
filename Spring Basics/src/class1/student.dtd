@@ -1,0 +1,6 @@
+<!ELEMENT college (student+)>
+<!ELEMENT student (name, emailid, mobile)>
+<!ATTLIST student rollono CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT emailid (#PCDATA)>
+<!ELEMENT mobile (#PCDATA)>

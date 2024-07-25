@@ -1,0 +1,18 @@
+<!DOCTYPE college SYSTEM "student.dtd">
+<College>
+    <student rollono="st1">
+        <name>abc</name>
+        <emailid>adc@gmail.com</emailid>
+        <mobile>12356</mobile>
+    </student>
+    <student rollono="st2">
+        <name>bcd</name>
+        <emailid>bcd@gmail.com</emailid>
+        <mobile>458796</mobile>
+    </student>
+    <student rollono="st3">
+        <name>yrt</name>
+        <emailid>yrt@gmail.com</emailid>
+        <mobile>87954</mobile>
+    </student>
+</College>
